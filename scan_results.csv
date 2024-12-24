@@ -1,0 +1,21 @@
+ip,os,port,name,product,version
+192.168.1.77,Unknown,21,ftp,FileZilla ftpd,1.9.4
+192.168.1.77,Unknown,80,http,,
+192.168.1.77,Unknown,81,hosts2-ns,,
+192.168.1.69,Unknown,21,ftp,,
+192.168.1.69,Unknown,80,http,TP-LINK router http config,
+192.168.1.69,Unknown,81,hosts2-ns,,
+192.168.1.69,Unknown,21,ftp,,
+192.168.1.69,Unknown,80,http,TP-LINK router http config,
+192.168.1.69,Unknown,81,hosts2-ns,,
+192.168.1.69,Unknown,22,ssh,Cisco/3com IPSSHd,6.6.0
+192.168.1.69,Unknown,80,http,TP-LINK router http config,
+192.168.1.77,Unknown,21,ftp,FileZilla ftpd,1.9.4
+192.168.1.77,Unknown,53,domain,,
+192.168.1.254,Unknown,23,telnet,,
+192.168.1.254,Unknown,21,ftp,D-Link/Comtrend DSL modem ftp firmware update,
+192.168.1.254,Unknown,22,ssh,Dropbear sshd,2017.75
+192.168.1.254,Unknown,80,http,micro_httpd,
+192.168.1.254,Unknown,139,netbios-ssn,Samba smbd,3.X - 4.X
+192.168.1.254,Unknown,443,tcpwrapped,,
+192.168.1.254,Unknown,445,netbios-ssn,Samba smbd,3.X - 4.X
